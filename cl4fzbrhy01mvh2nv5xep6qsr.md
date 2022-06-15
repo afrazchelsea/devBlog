@@ -49,9 +49,6 @@ With container orchestration in place, software teams can rapidly test, deploy, 
 * **Better Security** -
 As applications in containers run in an isolated environment, it ensures better security. Besides with container orchestration tools, communication between different services can be set restrictively, allowing only certain services to communicate to and fro as well as, only specific types of services to be exposed to the outside world.
 
-* **Monitoring** - 
-
-
 * **Reduced costs and resource needs** - 
 Multiple containers can be provisioned inside the same host. Containers are lightweight and do take up much space as an OS image normally would. Besides, container orchestration tools can be used to manage these resources more efficiently, ultimately reducing the overall cost to be incurred by the organization.
 
